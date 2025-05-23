@@ -23,7 +23,7 @@ Tags used:
 
 <body> – Contains the visible content of the web page.
 
-<a> – Defines a hyperlink (<a href="...">).
+<a> – Defines a hyperlink 
 
 <h1> – Defines a top-level heading.
 
