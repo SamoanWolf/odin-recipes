@@ -35,4 +35,4 @@ ul – Starts an unordered list.
 
 li – Defines a list item (used inside ul or ol).
 
-ol – Starts an ordered list.
+olg – Starts an ordered list.
